@@ -1,7 +1,13 @@
 .container{
  margin-bottom: 100px;
 }
-
+.sign-in{
+    color: white;
+    background-color: rgb(57, 235, 146);
+    border: none;
+    border-radius: 28px;
+    
+}
 .white-bg{
     background-color: rgb(243, 240, 237);
 }
@@ -14,6 +20,10 @@
 strong{
     color: rgb(57, 235, 146);
 }
+.online-text{
+    color: midnightblue;
+    font-weight: 700;
+}
 .Get-started{
     color: white;
     background-color: rgb(57, 235, 146);
@@ -21,16 +31,13 @@ strong{
     border-radius: 28px;
     padding: 6px 25px;
 }
-.card img{
-    margin-left: 65px;
-    margin-top: 50px;
-}
+
 .card-body h5{
     color: mediumblue;
 }
 .card{
     border: none;
-    border-radius: 10px;
+    border-radius: 15px;
     box-shadow: 5px 5px 10px lightgrey;
 }
 .card-title h3{
@@ -48,3 +55,17 @@ strong{
     padding: 20px 40px;
 }
 
+}
+.Courses{
+    color: midnightblue;
+}
+
+.container img{
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 30px;
+}
+.text-center
+{
+    color: navy;
+}
