@@ -1,0 +1,33 @@
+.container{
+ margin-bottom: 100px;
+}
+.white-bg{
+    background-color: rgb(243, 240, 237);
+}
+.learn{
+    color: rgba(240, 196, 3, 0.973);
+}
+.line{
+    color: green;
+}
+strong{
+    color: rgb(57, 235, 146);
+}
+.Get-started{
+    color: white;
+    background-color: rgb(57, 235, 146);
+    border: none;
+    border-radius: 28px;
+    padding: 6px 25px;
+}
+.sign-in{
+    background-image: linear-gradient(rgba(20, 204, 164, 0.733),rgba(24, 214, 110, 0.658));
+    font-weight: 700;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
